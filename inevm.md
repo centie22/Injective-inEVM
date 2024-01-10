@@ -1,4 +1,4 @@
-## Injective Ethereum Virtual Machine (inEVM)
+# Injective Ethereum Virtual Machine (inEVM)
 
 With so many blockchain ecosystems and the Ethereum Virtual Machine (EVM) being the dominant smart contract platform over the years, two questions came to the forefront:
 * How can true composability be achieved?
@@ -20,3 +20,11 @@ The motivation behind inEVM is breaking down the blockchian silos and facilitate
 1. Making it easy to move existing dApps from Ethereum to Injective.  
 2. Allowing developers tap into Injective's advantages like MEV resistance, fast finality, and advanced derivatives protocol for their Ethereum dApps.  
 3. Fostering the birth of innovative dApps that combine the strengths of both Ethereum and Injective, hence, opening new frontiers for DeFi applications. 
+
+### Technology Behind inEVM  
+The technology behind inEVM lies in its unconvetional architecture:  
+* EVM Compatibility: Essentially, EVM is fully compatible with Ethereum Virtual Machine. This means that Solidity smart contracts can smoothly run on the Ethereum chain without modifications.  
+
+* Scalability and Speed: inEVM inherits the benefits of Injective's Tendermint consesus mechanism, thereby offering fast transaction finality and high throughput. This equates to faster and more efficient operations for dApps compared to Ethereum mainnet.  
+
+* Cross-Chain Integration: inEVM harnesses Injective's Inter-Blockchain Communication (IBC) protocol to connect seamlessly with other major networks like Solana and Cosmos. This sets the stage for truly cross-chain dApps that interact with applications and assets across various ecosystems. 
