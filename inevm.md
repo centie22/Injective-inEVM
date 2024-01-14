@@ -28,3 +28,19 @@ The technology behind inEVM lies in its unconvetional architecture:
 * Scalability and Speed: inEVM inherits the benefits of Injective's Tendermint consesus mechanism, thereby offering fast transaction finality and high throughput. This equates to faster and more efficient operations for dApps compared to Ethereum mainnet.  
 
 * Cross-Chain Integration: inEVM harnesses Injective's Inter-Blockchain Communication (IBC) protocol to connect seamlessly with other major networks like Solana and Cosmos. This sets the stage for truly cross-chain dApps that interact with applications and assets across various ecosystems. 
+
+### Benefits for Everyone: Developers, users, Ecosystem  
+inEVM unlocks a plethora of benefits for various stakeholders. Let us highlight some of these benefits: 
+
+* **Developers**: 
+1. Access to wider user base and liquidity pools by moving thier dApps from Ethereum to Injective. 
+2. Leverage Injective's uniques features in developing DeFi applications with advanced functionalties.
+
+* **Users**: 
+1. Access Ethereum dApps on Injective at lower fees and enjoy wider range of DeFi options. 
+2. Benefit from Injective's cross-chain capabilities and MEV resistance mechanisms. 
+
+* **Ecosystem**: 
+1. Promote cross-chain innovation and attract developers and dApps from the Ethereum ecosystem. 
+2. Increase the overall liquidity and trading volume within Injective; thus solidifying its position as a DeFi hub. 
+
