@@ -49,4 +49,4 @@ Aside from being a a technical wonder, inEVM signifies a transformative step for
 With inEVM,Injective brigs Ethereum to the table, developing a DeFi powerhouse fueled by the combined features of speed, security, and innovation. It opens up a world where dApps seamlessly flow across networks, maximizing each other's unique features to create a more efficient, accessible, and user-friendly financial market. 
 
 ## Conclusion 
-inEVM is redefining the future of DeFi
+inEVM is redefining the future of DeFi, breaking the barriers and expanding its horizons beyond isolated chains. With this, Injective is well positioned to become a prominent DeFi center, attracting diverse range of dApps and users from Ethereum and beyond.
